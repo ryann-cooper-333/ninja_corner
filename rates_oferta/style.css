@@ -1,0 +1,37 @@
+body{
+    background: #31225D;
+    color: white;
+}
+
+header{
+    background: #422D83;
+    color: silver;
+    font-size: 50px;
+    justify-content:center;
+    text-align: center;
+    font-family: cursive;
+}
+
+h1{
+    color: #EFEFEF;
+}
+
+.links{
+    text-align: right;
+    justify-content: flex-end;
+    margin-right: 3px;
+    padding-right: 3px;
+    border-style: groove;
+    border-radius: 6px;
+    box-sizing: 2px;
+    box-shadow: inset;
+}
+
+a{
+    color: #F1F1F1;
+}
+
+footer{
+    background: #422D83;
+    text-align: center;
+}
