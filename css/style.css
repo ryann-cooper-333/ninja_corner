@@ -2,9 +2,6 @@ body{
     background: #31225D;
     color: white;
 }
-main{
-    position: relative;
-}
 a{
     position: absolute;
     width: 31vw;
